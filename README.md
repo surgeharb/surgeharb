@@ -7,7 +7,7 @@ Hi there! I'm Serge, a software engineer with a passion for building high-qualit
 #### 🎉 [Scriptbook](https://scriptbook.vercel.app/) - Unleash Your JavaScript Creativity!
 Discover the true potential of JavaScript with Scriptbook - an interactive notebook environment packed with Math, AI, and state-of-the-art tools to elevate your data analysis experience. Ideal for projects of any size or as a captivating companion for computer science education. Dive headfirst into the captivating world of JavaScript like never before!
 
-#### 🛍️ [POS-Engine](https://pos-engine-internal.vercel.app/) - Streamline Your Business Operations!
+#### 🛍️ [POS-Engine](https://pos-engine.vercel.app/) - Streamline Your Business Operations!
 A comprehensive Point of Sale (POS) System for Shops, featuring accounting, advanced analytics, order management, item tracking, inventory control, delivery services, an online digital catalog, and reservation capabilities. Level up your business operations with POS-Engine!
 
 ## 🌐 Find Me Elsewhere
